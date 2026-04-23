@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Helloxsxzczxc, world!")
+            Image(systemName: "square.and.arrow.up.badge.checkmark.fill")
         }
         .padding()
     }
