@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Image(systemName: "square.and.arrow.up.badge.checkmark.fill")
             Image(systemName: "square.and.arrow.up.badge.checkmark.fill")
+            Text("this is collaboration at its finest")
         }
         .padding()
     }
