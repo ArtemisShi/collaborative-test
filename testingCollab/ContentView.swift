@@ -14,7 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Image(systemName: "square.and.arrow.up.badge.checkmark.fill")
-            Text("This is for testing")
+            Image(systemName: "square.and.arrow.up.badge.checkmark.fill")
         }
         .padding()
     }
